@@ -9,6 +9,10 @@ Proyek ini adalah implementasi sederhana dari arsitektur Microservices menggunak
 
 ## 🏗️ Arsitektur Service
 
+Berikut adalah desain arsitektur sistem yang dibangun dalam proyek ini:
+
+![Diagram Arsitektur Microservices](./assets/diagram-arsitektur.jpg)
+
 Sistem ini terdiri dari 5 komponen utama:
 
 1.  **API Gateway (Port 3000):** Pintu masuk utama, menangani routing dan autentikasi.
